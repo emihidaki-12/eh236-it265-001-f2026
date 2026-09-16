@@ -1,4 +1,6 @@
 # Game Studio Brainstorming Template
+
+### Emi Hidaki
 <!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
 ## Studio Name Ideas
 - **Primary Ideas:**
