@@ -6,15 +6,12 @@
 ### Date: [09/27/2026]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in with an "x" to check them off
-- [ ] Understand what defines a game
-- [ ] Learn the difference between a game and gameplay
-- [ ] Brainstorm different game concepts and ideas
-- [ ] Develop ideas that could be presented as a game pitch
+- [x] Understand what defines a game
+- [x] Learn the difference between a game and gameplay
+- [x] Brainstorm different game concepts and ideas
+- [x] Develop ideas that could be presented as a game pitch
 - [ ] Choose a concept to develop
--->
-- [ ] Example pending goal
-- [x] Example completed goal
+
 
 #### Progress
 - **What I accomplished**:
