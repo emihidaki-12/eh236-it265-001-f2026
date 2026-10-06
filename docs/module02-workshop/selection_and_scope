@@ -1,1 +1,40 @@
+---
+layout: default
+title: "IT265 Module 2: Select and Scope a Concept"
+---
 
+# IT265 Module 2: Select and Scope a Concept
+
+Compare the feedback for all your pitches before selecting one. Keep useful alternatives in your journal.
+
+| Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
+| --- | --- | --- | --- | --- |
+| **Yakin** | Yes. The employee repeatedly decides whether a customer's behavior is suspicious and whether to investigate or accuse them. | Social deception mixed with a funny and slightly creepy Japanese konbini setting. | Yes. It can be tested with role cards, customer/action cards, tokens, and a simple paper store layout. | Whether the employee receives enough information to identify yokai without the game becoming random guessing. |
+| **Onigiri Dash** | Yes. The player decides which fillings to collect and how to avoid obstacles while continuing through the level. | Simple, fast gameplay with a cute onigiri theme and different collectible fillings. | Partly. Cards and a paper track could represent the basic idea, but the intended experience depends more on movement and timing. | Whether collecting fillings adds enough strategy to make the game different from other endless runners. |
+| **Konbini Cats** | Yes. Players decide whether to collect another item or leave before getting caught. | Cute cats, simple rules, and a push-your-luck mechanic that would be easy to understand. | Yes. Item cards, cat cards, and employee cards could create a simple physical prototype. | Whether there are enough meaningful decisions beyond simply drawing another card. |
+
+**Selected concept and reason:**
+
+I selected **Yakin** because I think it has the strongest opportunity for interesting player interaction. The employee has to observe customers and decide who can be trusted, while the supernatural players have to deceive the employee and behave like normal customers. I also like that the concept can be funny and slightly creepy at the same time. The main mechanic can be tested physically before developing anything digitally.
+
+**Feedback that changed or confirmed my choice, if received (otherwise say unavailable):**
+
+Unavailable. I have not received enough peer feedback yet to change or confirm the final design, so my current choice is based on comparing the concepts and considering which one has the clearest gameplay and is realistic to prototype.
+
+**Other ideas to keep for later:**
+
+I want to keep **Onigiri Dash** for a future project because it fits the casual style of Konbini Studio and could work well as a small digital game. I also want to keep the Konbini Cats idea because the push-your-luck mechanic could become a simple card game.
+
+**First physical prototype boundary:**
+
+The first Yakin prototype will only test the basic social deduction interaction. There will be one employee, normal customers, and at least one hidden yokai. Players will use simple role and action cards, and the employee will have a limited number of opportunities to question or investigate customers. The prototype will not include graphics, complicated yokai abilities, multiple locations, or a large number of items.
+
+**One feature to defer:**
+
+Different yokai with unique supernatural abilities will be deferred until the basic employee-versus-customer interaction has been tested.
+
+**One risk to test next:**
+
+The main risk to test is whether the employee receives enough useful information to make a logical decision about who is a yokai. If there are not enough clues, identifying the supernatural player could become random guessing. If the clues are too obvious, deception will be too difficult for the yokai player.
+
+Carry this decision into the [one-page treatment](./05-one-page-treatment.html) and [first journal entry](./06-journal-first-entry.html). Link this document's rendered page from your workshop index. It supports those documents rather than adding another graded submission.
