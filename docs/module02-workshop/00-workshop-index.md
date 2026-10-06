@@ -9,12 +9,12 @@ This page contains my completed concept workshop documents for Module 2. During 
 
 ## Workshop Documents
 
-1. [Idea Bank](./idea-bank.html)
-2. [Concept Pitch Cards](./concept-pitch-cards.html)
-3. [Peer Feedback](./peer-feedback.html)
-4. [Select and Scope a Concept](./select-and-scope.html)
-5. [One-Page Treatment](./one-page-treatment.html)
-6. [Design and Development Journal First Entry](./journal-first-entry.html)
+1. [Idea Bank](./idea_bank.html)
+2. [Concept Pitch Cards](./pitch_cards.html)
+3. [Peer Feedback](./peer_feedback.html)
+4. [Select and Scope a Concept](./selection_and_scope.html)
+5. [One-Page Treatment](./one_page_treatment.html)
+6. [Design and Development Journal First Entry](./first_journal_entry.html)
 
 ## Selected Concept
 
