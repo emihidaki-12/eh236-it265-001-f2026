@@ -9,32 +9,31 @@ Compare the feedback for all your pitches before selecting one. Keep useful alte
 
 | Concept | Clear recurring decision? | Strongest appeal | Feasible first physical prototype? | Risk to test |
 | --- | --- | --- | --- | --- |
-| **Yakin** | Yes. The employee repeatedly decides whether a customer's behavior is suspicious and whether to investigate or accuse them. | Social deception mixed with a funny and slightly creepy Japanese konbini setting. | Yes. It can be tested with role cards, customer/action cards, tokens, and a simple paper store layout. | Whether the employee receives enough information to identify yokai without the game becoming random guessing. |
-| **Onigiri Dash** | Yes. The player decides which fillings to collect and how to avoid obstacles while continuing through the level. | Simple, fast gameplay with a cute onigiri theme and different collectible fillings. | Partly. Cards and a paper track could represent the basic idea, but the intended experience depends more on movement and timing. | Whether collecting fillings adds enough strategy to make the game different from other endless runners. |
-| **Konbini Cats** | Yes. Players decide whether to collect another item or leave before getting caught. | Cute cats, simple rules, and a push-your-luck mechanic that would be easy to understand. | Yes. Item cards, cat cards, and employee cards could create a simple physical prototype. | Whether there are enough meaningful decisions beyond simply drawing another card. |
+| **Yakin** | Yes. Customers observe and communicate to identify the hidden yokai, while the yokai tries to blend in and eliminate players without being discovered. | Social deception combined with a funny and slightly creepy Japanese konbini setting. | Yes. It can be tested with employee, customer, and yokai role cards along with simple action and clue cards. | Whether the yokai can secretly eliminate players while giving the customers enough information to logically identify them. |
+| **Onigiri Dash** | Yes. The player avoids obstacles while deciding which fillings and bonuses to collect. | Simple and fast gameplay with a cute onigiri theme. | Partly. A paper track could test some mechanics, but the intended experience depends heavily on movement and timing. | Whether collecting fillings creates enough strategy to make the game different from other endless runners. |
 
 **Selected concept and reason:**
 
-I selected **Yakin** because I think it has the strongest opportunity for interesting player interaction. The employee has to observe customers and decide who can be trusted, while the supernatural players have to deceive the employee and behave like normal customers. I also like that the concept can be funny and slightly creepy at the same time. The main mechanic can be tested physically before developing anything digitally.
+I selected **Yakin** because I think it has the strongest opportunity for player interaction and experimentation. Instead of relying mostly on movement or collecting items, the gameplay depends on communication, observation, deception, and deduction between players. I also like that the setting can be funny and casual while still creating suspense. The main idea can also be tested using simple physical materials before developing a digital version.
 
 **Feedback that changed or confirmed my choice, if received (otherwise say unavailable):**
 
-Unavailable. I have not received enough peer feedback yet to change or confirm the final design, so my current choice is based on comparing the concepts and considering which one has the clearest gameplay and is realistic to prototype.
+Feedback from JL changed the original concept. My first idea had the employee trying to identify unusual customers entering the konbini. The feedback suggested putting the employee and all of the customers inside the konbini together, with one customer secretly being the yokai. The yokai would try to eliminate the other customers and eventually the employee. The customers would need to figure out who the yokai is and warn the employee, because the employee has the ability to defeat it. I liked this suggestion because it gives the customers a more important role and creates more interaction between all of the players.
 
 **Other ideas to keep for later:**
 
-I want to keep **Onigiri Dash** for a future project because it fits the casual style of Konbini Studio and could work well as a small digital game. I also want to keep the Konbini Cats idea because the push-your-luck mechanic could become a simple card game.
+I want to keep **Onigiri Dash** for a possible future digital project because it fits the casual style of Konbini Studio.
 
 **First physical prototype boundary:**
 
-The first Yakin prototype will only test the basic social deduction interaction. There will be one employee, normal customers, and at least one hidden yokai. Players will use simple role and action cards, and the employee will have a limited number of opportunities to question or investigate customers. The prototype will not include graphics, complicated yokai abilities, multiple locations, or a large number of items.
+The first Yakin prototype will only test the core hidden-role and deduction system. It will include one employee, one hidden yokai, and several customers. The customers will have a simple way to gather clues and communicate, while the yokai will have a basic method of secretly eliminating players. The employee will have one ability that can defeat the suspected yokai. The prototype will not include multiple types of yokai, complicated abilities, detailed graphics, or a large konbini map.
 
 **One feature to defer:**
 
-Different yokai with unique supernatural abilities will be deferred until the basic employee-versus-customer interaction has been tested.
+Different yokai with unique supernatural abilities will be deferred until the basic hidden-role gameplay works.
 
 **One risk to test next:**
 
-The main risk to test is whether the employee receives enough useful information to make a logical decision about who is a yokai. If there are not enough clues, identifying the supernatural player could become random guessing. If the clues are too obvious, deception will be too difficult for the yokai player.
+The biggest risk is finding a way for the yokai to eliminate customers without immediately revealing their identity. At the same time, the remaining players need enough clues to make logical deductions instead of randomly accusing someone.
 
 Carry this decision into the [one-page treatment](./05-one-page-treatment.html) and [first journal entry](./06-journal-first-entry.html). Link this document's rendered page from your workshop index. It supports those documents rather than adding another graded submission.
