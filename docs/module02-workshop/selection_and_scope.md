@@ -18,7 +18,7 @@ I selected **Yakin** because I think it has the strongest opportunity for player
 
 **Feedback that changed or confirmed my choice, if received (otherwise say unavailable):**
 
-Feedback from JL changed the original concept. My first idea had the employee trying to identify unusual customers entering the konbini. The feedback suggested putting the employee and all of the customers inside the konbini together, with one customer secretly being the yokai. The yokai would try to eliminate the other customers and eventually the employee. The customers would need to figure out who the yokai is and warn the employee, because the employee has the ability to defeat it. I liked this suggestion because it gives the customers a more important role and creates more interaction between all of the players.
+Feedback from JL changed the original concept. My first idea had the employee trying to identify unusual customers entering the konbini. He suggested putting the employee and all of the customers inside the konbini together, with one customer secretly being the yokai. The yokai would try to eliminate the other customers and eventually the employee. The customers would need to figure out who the yokai is and warn the employee, because the employee has the ability to defeat it. I liked this suggestion because it gives the customers a more important role and creates more interaction between all of the players.
 
 **Other ideas to keep for later:**
 
@@ -26,7 +26,7 @@ I want to keep **Onigiri Dash** for a possible future digital project because it
 
 **First physical prototype boundary:**
 
-The first Yakin prototype will only test the core hidden-role and deduction system. It will include one employee, one hidden yokai, and several customers. The customers will have a simple way to gather clues and communicate, while the yokai will have a basic method of secretly eliminating players. The employee will have one ability that can defeat the suspected yokai. The prototype will not include multiple types of yokai, complicated abilities, detailed graphics, or a large konbini map.
+The first Yakin prototype will only test the core hidden role and deduction system. It will include one employee, one hidden yokai, and several customers. The customers will have a simple way to gather clues and communicate, while the yokai will have a basic method of secretly eliminating players. The employee will have one ability that can defeat the suspected yokai. The prototype will not include multiple types of yokai, complicated abilities, detailed graphics, or a large konbini map.
 
 **One feature to defer:**
 
