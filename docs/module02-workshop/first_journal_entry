@@ -1,1 +1,94 @@
+---
+layout: default
+title: "IT265 Module 2: Design and Development Journal First Entry"
+---
 
+# IT265 Module 2: Design and Development Journal First Entry
+
+This records design reasoning. Keep your weekly GitHub dev log separately. Link the dated entry's rendered page from your workshop index and preserve it when adding later journal entries.
+
+## Entry Details
+
+**Date:** 10/05/2026
+
+**Working game title:** Yakin
+
+**Project stage:** Early concept and brainstorming
+
+**Entry type:** Concept development and design decision
+
+## Concept and Decision
+
+**Current concept and intended experience:**
+
+Yakin is a game based on working the night shift at a Japanese konbini. The main idea is that strange customers begin entering the store late at night, and some of them may actually be yokai, ghosts, or other supernatural creatures. I want the game to be funny and slightly creepy while still being casual and easy to understand.
+
+**Design question or decision:**
+
+The main design question I am considering is whether Yakin should be a single-player/card-based game or a multiplayer social deception game. I want to figure out which version creates more interesting interactions without making the game too complicated.
+
+**Selected concept and alternatives kept:**
+
+For now, I am more interested in developing Yakin as a multiplayer social deception game. One player would take the role of the konbini employee while the other players act as customers. Some customers may secretly be supernatural creatures and have to convince the employee that they are normal.
+
+I am keeping the original card-based night shift version as an alternative. I also have another game concept called Onigiri Dash, an endless-runner style game where an onigiri collects different fillings while avoiding obstacles.
+
+**Peer feedback that affected the decision, if received (otherwise say unavailable):**
+
+Unavailable at this stage. I have not received enough peer feedback yet to make changes based on it.
+
+## Reading Connection
+
+Choose one idea from Chapter 1: Having the Idea, The Treatment, or Feasibility.
+
+**Section and specific idea:**
+
+Feasibility — considering whether a game idea can realistically be developed with the available time, tools, skills, and scope.
+
+**Relevance today:** Still relevant
+
+**Reason and supporting example:**
+
+This is relevant to Yakin because I have several ideas for how the game could work, but I need to make sure the concept does not become too complicated. For example, the multiplayer version could include different types of yokai, customer behaviors, employee actions, special abilities, and deception mechanics. All of those ideas sound interesting, but adding too many systems could make the project difficult to develop and confusing for players.
+
+**Connection to a choice, question or proposed test for my game:**
+
+I want to start with a simple version of the multiplayer concept and test whether the basic employee-versus-customer interaction is fun before adding more characters or abilities. A first prototype could have one employee, a few customers, and only one hidden supernatural customer.
+
+## Progress and Evidence
+
+**What I created, changed, tested, or decided:**
+
+I developed the original night-shift idea further and decided to explore multiplayer social deception as the main direction. I also started defining the roles of the players. One player would be the employee while the other players would act as customers, with at least one secretly being a supernatural creature.
+
+**Direct artifact link or specific observation:**
+
+The current concept is documented in my Module 2 development log and game brainstorming notes. The main observation from brainstorming is that giving the customers hidden identities creates more player interaction than having the employee simply respond to randomly drawn customer cards.
+
+**What the evidence confirms:**
+
+The brainstorming confirms that the konbini night-shift setting can support more than one type of gameplay. It also shows that the hidden-role idea fits the strange late-night customer theme well.
+
+**What remains uncertain:**
+
+I still need to determine exactly how the employee identifies supernatural customers, how the supernatural players deceive the employee, and what conditions cause each side to win. I also need to determine how many players would make the game work best.
+
+## Rough Gameplay Timing Onion
+
+| Layer | Player activity or outcome | Tentative timing |
+| --- | --- | --- |
+| Immediate decision | Employee questions or observes a customer while the customer chooses how to respond or hide their identity. | 30 seconds–1 minute |
+| Larger objective | The employee tries to identify suspicious customers while supernatural players try to successfully pass as normal customers. | 5–10 minutes |
+| Session | Several customers enter the konbini and players complete multiple interactions until the employee or supernatural side reaches the win condition. | 15–20 minutes |
+
+Keep the working model in the journal. The treatment needs only the timing context that helps a reader understand play.
+
+## Next Action
+
+**Next prototype, reader test, or design decision:**
+
+Create a simple paper/card prototype of Yakin with an employee role, normal customer cards, and supernatural customer cards. Define a basic interaction where the employee can ask questions or inspect something about each customer before deciding whether they are human.
+
+**Uncertainty it will address:**
+
+The prototype will help determine whether identifying and deceiving customers is actually fun and whether players have enough information to make meaningful decisions instead of simply guessing.
