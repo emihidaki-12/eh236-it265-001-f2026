@@ -59,7 +59,3 @@
 > - Explore ways to communicate important information using icons, text, and sound.
 > - Test whether the movement restrictions and blackout mechanics are balanced.
 > - Continue updating my Game Design Document as the project develops.
-
-
-- [Entity-Based Systems (ECS)](https://codex.ethereallab.app/2e/game-architecture-and-design/presentations/11-entity-based-systems/01-ecs/view/slides/#/title)
-- [Spatial Rules, Levels, and Interface](https://codex.ethereallab.app/2e/game-architecture-and-design/presentations/12-level-mechanics-and-user-interfaces/01-spatial-rules-levels-and-interface/view/slides/#/title)
